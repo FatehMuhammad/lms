@@ -8,7 +8,7 @@
 ![Tests](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/vandxn/main&style=flat&logo=cypress)
 
 </div>
-
+ 
 
 <div align="center">
 	<img src=".github/hero.png?v=5" alt="Hero Image" width="72%" />
